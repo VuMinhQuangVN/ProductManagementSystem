@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Nam_hoc_2025_2026\\Lap_Trinh_Ung_Dung_Doanh_Nghiep\\Tren_Lop\\Ngay_06_11_2025\\QuanLySanPhamAPI\\QuanLySanPhamAPI.csproj": {}
+  },
+  "projects": {
+    "F:\\Nam_hoc_2025_2026\\Lap_Trinh_Ung_Dung_Doanh_Nghiep\\Tren_Lop\\Ngay_06_11_2025\\QuanLySanPhamAPI\\QuanLySanPhamAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Nam_hoc_2025_2026\\Lap_Trinh_Ung_Dung_Doanh_Nghiep\\Tren_Lop\\Ngay_06_11_2025\\QuanLySanPhamAPI\\QuanLySanPhamAPI.csproj",
+        "projectName": "QuanLySanPhamAPI",
+        "projectPath": "F:\\Nam_hoc_2025_2026\\Lap_Trinh_Ung_Dung_Doanh_Nghiep\\Tren_Lop\\Ngay_06_11_2025\\QuanLySanPhamAPI\\QuanLySanPhamAPI.csproj",
+        "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+        "outputPath": "F:\\Nam_hoc_2025_2026\\Lap_Trinh_Ung_Dung_Doanh_Nghiep\\Tren_Lop\\Ngay_06_11_2025\\QuanLySanPhamAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Nam_hoc_2024_2025_ky2\\Lap_trinh_Net\\File_thu_vien": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

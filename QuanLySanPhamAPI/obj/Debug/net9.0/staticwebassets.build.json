@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pPDK63VMfUF2DCeR6+TkcVg1KcW65KBV8ENmLyzSOxQ=",
+  "Source": "QuanLySanPhamAPI",
+  "BasePath": "_content/QuanLySanPhamAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
